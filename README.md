@@ -16,6 +16,7 @@ This overview image displays the six regions where the UAV flights were recorded
 
 ### 2D Animation (100 times slots)
 
+
 <p align="center">
     <img src="city_0_2D.gif" alt="Description" style="width: 60%;" />
 </p>
@@ -32,36 +33,60 @@ This overview image displays the six regions where the UAV flights were recorded
 
 ### 2D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_1_2D.gif" alt="Description" style="width: 60%;" />
+</p>
 
 ### 3D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_1_3D.gif" alt="Description" style="width: 60%;" />
+</p> 
 
 ## City Area Three
 
 
 ### 2D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_2_2D.gif" alt="Description" style="width: 60%;" />
+</p>
 
 ### 3D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_2_3D.gif" alt="Description" style="width: 60%;" />
+</p> 
 
 ## City Area Four
 
 
 ### 2D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_3_2D.gif" alt="Description" style="width: 60%;" />
+</p>
 
 ### 3D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_3_3D.gif" alt="Description" style="width: 60%;" />
+</p> 
 
 ## City Area Five
 
 
 ### 2D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_4_2D.gif" alt="Description" style="width: 60%;" />
+</p>
 
 ### 3D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_4_3D.gif" alt="Description" style="width: 60%;" />
+</p> 
 
 
 ## City Area Six
@@ -69,5 +94,15 @@ This overview image displays the six regions where the UAV flights were recorded
 
 ### 2D Animation (100 times slots)
 
+<p align="center">
+    <img src="city_5_2D.gif" alt="Description" style="width: 60%;" />
+</p>
 
 ### 3D Animation (100 times slots)
+
+<p align="center">
+    <img src="city_5_3D.gif" alt="Description" style="width: 60%;" />
+</p> 
+
+
+
